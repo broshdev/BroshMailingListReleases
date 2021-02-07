@@ -1,0 +1,32 @@
+{
+    "files.exclude": {
+        "**/*.gem": true,
+        "**/*.rbc": true,
+        ".config": true,
+        "coverage/": true,
+        "InstalledFiles": true,
+        "pkg/": true,
+        "spec/reports/": true,
+        "spec/examples.txt": true,
+        "test/tmp/": true,
+        "test/version_tmp/": true,
+        "tmp/": true,
+        "**/.byebug_history": true,
+        "**/.dat*": true,
+        "**/.repl_history": true,
+        "**/build/": true,
+        "**/*.bridgesupport": true,
+        "**/build-iPhoneOS/": true,
+        "**/build-iPhoneSimulator/": true,
+        ".yardoc/": true,
+        "_yardoc/": true,
+        "doc/": true,
+        "rdoc/": true,
+        ".bundle/": true,
+        "lib/bundler/man/": true,
+        "**/.rvmrc": true,
+        "**/_site/": true,
+        "**/.sass-cache/": true,
+        "vendor/": true
+    }
+}
