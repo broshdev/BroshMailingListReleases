@@ -7,7 +7,7 @@
   "targets": {
     ".NETCoreApp,Version=v5.0": {},
     ".NETCoreApp,Version=v5.0/win-x64": {
-      "BroshMailingList.App/1.0.14.295": {
+      "BroshMailingList.App/1.0.15.306": {
         "dependencies": {
           "BroshMailingList.Service": "1.0.0",
           "MaterialDesignColors": "2.0.0",
@@ -520,7 +520,7 @@
     }
   },
   "libraries": {
-    "BroshMailingList.App/1.0.14.295": {
+    "BroshMailingList.App/1.0.15.306": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
