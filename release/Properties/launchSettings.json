@@ -4,7 +4,7 @@
       "commandName": "Project",
       "environmentVariables": {
         "DOTNET_ENVIRONMENT": "Development",
-        "BROSH_DEBUG": "C:\\Git\\Brosh\\BroshMailingList\\BroshMailingList.Tests\\TestFiles\\DataSourceDocs\\complex_context.csv;C:\\Git\\Brosh\\BroshMailingList\\BroshMailingList.Tests\\TestFiles\\WordDocs\\he_main_doc_template.docx;C:\\Users\\David\\Documents\\Brosh\\Attachements\\itzik.pdf"
+        "BROSH_DEBUG": "C:\\Git\\Brosh\\BroshMailingList\\BroshMailingList.Tests\\TestFiles\\DataSourceDocs\\complex_datasource.csv;C:\\Git\\Brosh\\BroshMailingList\\BroshMailingList.Tests\\TestFiles\\WordDocs\\he_main_doc_template.docx;C:\\Users\\David\\Documents\\Brosh\\Attachements\\itzik.pdf"
         //,"BROSH_DEBUG_ADDRESS": "davidgilady@gmail.com"
         ,"BROSH_MOCK_EMAIL_SERVICE": "true"
       }
